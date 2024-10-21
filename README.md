@@ -3,7 +3,7 @@
 
 ## Project's Title
 
-tic-toc-toe  is the name of the project. It  helps people understand how to  event listener works .
+tic-toc-toe  is the name of the project. It  helps people understand how to  event listener and  query seclector works .
 
 ## Project Description
 
@@ -14,4 +14,6 @@ tic-toc-toe  is the name of the project. It  helps people understand how to  eve
 
 - WHAT features, technical things you had implemented ?
   - I implemented html and css feature. Its included samantic tags for better understanding of others and. And in css part i used class for styling.
-  i also implemented  js event listener and event listener.
+  i also implemented  js event listener and  query seclector
+
+.
